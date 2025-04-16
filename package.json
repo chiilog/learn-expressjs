@@ -1,0 +1,23 @@
+{
+  "name": "learn-expressjs",
+  "version": "1.0.0",
+  "description": "Expressを勉強するためのリポジトリ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiilog/learn-expressjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chiilog/learn-expressjs/issues"
+  },
+  "homepage": "https://github.com/chiilog/learn-expressjs#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
